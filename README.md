@@ -7,3 +7,9 @@ The objective of the project is to allow local places that work with recycling o
 # Under development app!
 
 # Accepting suggestions and help
+
+
+
+
+Technologies used:
+            Node, React
